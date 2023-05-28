@@ -1,4 +1,7 @@
-<h1 style="color:purple">Welcome to my profil</h1>
+<div align="center"">
+  <h1 color="purple">Welcome to my profil</h1>
+
+</div>
 
 
 
