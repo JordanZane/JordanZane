@@ -5,8 +5,10 @@
       <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
   </div>
-  <div class="skills-container">
-    <h2>Skills</h2>
-    <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript"
+  <h2>Skills</h2>
+  <div id="skills-container" style="display:flex; justify-content:center">
+    <div>Html5-Css3</div>
+    <div>Sass</div>
+    <div>JavaScript</div>
   </div>
 </div>
